@@ -1,3 +1,0 @@
-https://github.com/robin-dela/hover-effect
-
-go to the images folder and use a .png file for the effect you want
